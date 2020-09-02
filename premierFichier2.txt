@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 # premierFicher fg nouveau status bon
+=======
+# premierFicher fg nouveau bon bon bon
+>>>>>>> brancheCommit
